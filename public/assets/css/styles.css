@@ -1,0 +1,27 @@
+#work {
+  background-color: blue;
+}
+
+#life {
+  background-color: green;
+}
+
+#play {
+  background-color: purple;
+}
+
+.wrapper {
+  display: table;
+  flex: wrap;
+}
+
+.main-boxes {
+  display: table-cell;
+  width: 33vw;
+  height: 100vh;
+  margin: 0px;
+  vertical-align: middle;
+  text-align: center;
+  color: white;
+  border: 1px solid black;
+}
